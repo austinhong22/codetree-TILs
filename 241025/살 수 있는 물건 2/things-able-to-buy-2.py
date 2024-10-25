@@ -7,4 +7,4 @@ elif a>=1000:
 elif a>=500:
     print("pen")
 else:
-    print(no)
+    print("no")
