@@ -5,4 +5,4 @@ b = int(inq[1])
 if a>b:
     print(f"{a*b}")
 else:
-    print(f"{b%a}")
+    print(f"{b//a}")
