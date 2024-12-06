@@ -8,5 +8,5 @@ while(True):
 
 
 avg = sum(ages)/len(ages)
-print(f"{avg:.1f}")
+print(f"{avg:.2f}")
         
